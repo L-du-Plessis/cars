@@ -1,5 +1,5 @@
 # cars
-Cars CRUD application developed in Laravel 5.
+Cars CRUD application developed in Laravel 5.7.
 
 Tested on a MySQL database.
 
